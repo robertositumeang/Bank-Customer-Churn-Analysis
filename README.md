@@ -56,4 +56,4 @@ Explore the interactive **Tableau dashboard** [here](https://public.tableau.com/
 5. Implement the **retention strategies** to reduce churn effectively.  
 
 ## 🤝 Connect & Collaborate
-Feel free to contribute, suggest improvements, or discuss insights. Reach out via **GitHub issues** or connect on **[LinkedIn](your-linkedin-profile)**! 🚀
+Feel free to contribute, suggest improvements, or discuss insights. Reach out via **GitHub issues** or connect on **[LinkedIn](https://www.linkedin.com/in/roberto-situmeang/)**! 🚀
